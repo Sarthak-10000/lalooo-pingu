@@ -1,0 +1,17 @@
+pre {
+    color: beige;
+    
+}
+
+
+
+body{
+    background-image: url(https://www.arc.unsw.edu.au/generated/hero-large/image0-png.png?1624351678);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.9;
+    z-index: -1;
+    image-rendering: crisp-edges;
+    font-family: cursive;
+}
